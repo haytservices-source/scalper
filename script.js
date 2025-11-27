@@ -3,7 +3,7 @@
 // =======================
 
 // 🔑 Insert your real TwelveData API key
-const API_KEY = "7553a4dbc97c47ba98de58139f8ab992";
+const API_KEY = "sk_0507bDb61A0Af2729CE5eaAa026f4937F909aD8ba673Db1a";
 
 // WebSocket endpoint
 const socket = new WebSocket(`wss://ws.twelvedata.com/v1/quotes/price?apikey=${API_KEY}`);
