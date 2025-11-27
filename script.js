@@ -3,7 +3,7 @@
 // =====================
 
 // 1) INSERT YOUR FREE API KEY HERE (e.g. from Alpha Vantage)
-const PRICE_API_KEY = "YOUR_API_KEY_HERE";
+const PRICE_API_KEY = "IVDWGNEHUKZADO1X";
 
 // Alpha Vantage FX API example for XAUUSD
 // Note: Free tier is rate-limited; do NOT set interval too small.
